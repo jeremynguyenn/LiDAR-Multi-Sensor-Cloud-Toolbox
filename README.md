@@ -79,5 +79,4 @@ The functions of this toolbox include:
 
 https://github.com/chaomath/open3d-kitti-visualization
 https://github.com/PRBonn/semantic-kitti-api
-https://github.com/yknapp/lidar2bev
 
