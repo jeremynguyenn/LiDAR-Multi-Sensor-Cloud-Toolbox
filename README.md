@@ -51,7 +51,7 @@ python tutorial.py
 # Developing
 
 The functions of this toolbox include:
-- [ ] dataloader
+- [x] dataloader
 	- [x] load xyz from `*.bin`
 	- [x] load xyzi from `*.bin`
 	- [x] load xyzi and crop to certain ROI from `*.bin`
@@ -60,17 +60,16 @@ The functions of this toolbox include:
 	- [x] load xyz and downsize from `*.pcd`
 	- [x] load xyzi from `*.pcd`
 	- [x] load xyzi and downsize from `*.pcd`
-- [ ] visualize single frame data
+- [x] visualize single frame data
 	- [x] visualize point cloud $[n,3]$ 
 	- [x] visualize point cloud with label $[n,3]$ + $[n,1]$
-	- [ ] ……
-- [ ] visualize sequential data
+- [x] visualize sequential data
 	- [x] semantic segmentation
 	- [x] instance segmentation
 	- [x] moving object segmentation
 	- [x] object detection blocking
 	- [ ] object detection non-blocking
-- [ ] mapping with sequential data and poses
+- [x] mapping with sequential data and poses
 	- [x] mapping with kitti-like data
 - [ ] visualize kitti point cloud map
 - [x] lidar-bev transform
